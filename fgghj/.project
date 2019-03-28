@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>fgghj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Factorial.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/Factorial.java</locationURI>
+		</link>
+		<link>
+			<name>src/Figuras.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/MARILU~1/AppData/Local/Temp/Rar$DRa0.045/Figuras.java</locationURI>
+		</link>
+		<link>
+			<name>src/Operaciones.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/MARILU~1/AppData/Local/Temp/Rar$DRa0.045/Operaciones.java</locationURI>
+		</link>
+		<link>
+			<name>src/principal.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/MARILU~1/AppData/Local/Temp/Rar$DRa0.045/principal.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
