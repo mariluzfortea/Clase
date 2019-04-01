@@ -1,7 +1,7 @@
 
 public class ClaseRecursiva {
 
-	//Método Recursivo
+
 	public int potenciaR(int x, int y) {
 		if (y==1)
 			//el caso básico es que cualquier número elevado a 1 (y=1) es el mismo número (x)
