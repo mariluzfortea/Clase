@@ -6,11 +6,11 @@ public class Main {
 		//creamos un objeto de la clase ClaseRecursiva
 		ClaseRecursiva objeto= new ClaseRecursiva();
 		
-		//Ejecutamos y sacamos por pantalla el método recursivo 
+		//Ejecutamos y sacamos por pantalla el mÃ©todo recursivo 
 		System.out.println(objeto.potenciaR(2,3));
 		
-		//Ejecutamos y sacamos por pantalla el método iterativo
-		System.out.println(objeto.potenciaI(2,3));
+		//Ejecutamos y sacamos por pantalla el mÃ©todo iterativo
+		System.out.println(objeto.potenciaI(2,5));
 
 	}
 }
